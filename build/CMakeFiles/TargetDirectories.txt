@@ -1,0 +1,4 @@
+/home/ibrahim/GitRepos/FireBaseCurl/build/CMakeFiles/edit_cache.dir
+/home/ibrahim/GitRepos/FireBaseCurl/build/CMakeFiles/rebuild_cache.dir
+/home/ibrahim/GitRepos/FireBaseCurl/build/CMakeFiles/FireBaseCurl.self.dir
+/home/ibrahim/GitRepos/FireBaseCurl/build/CMakeFiles/FireBaseCurl.dir

@@ -1,0 +1,34 @@
+CMakeFiles/FireBaseCurl.dir/src/ime.c.obj: \
+ /home/ibrahim/GitRepos/FireBaseCurl/src/ime.c \
+ /usr/local/vitasdk/arm-vita-eabi/include/string.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/_ansi.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/newlib.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/config.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/machine/ieeefp.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/features.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/reent.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/_ansi.h \
+ /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.2.0/include/stddef.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/_types.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/machine/_types.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/machine/_default_types.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/lock.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/cdefs.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/string.h \
+ /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.2.0/include/stdbool.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/psp2/types.h \
+ /usr/local/vitasdk/lib/gcc/arm-vita-eabi/10.2.0/include/stdint.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/stdint.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/_intsup.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/sys/_stdint.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/psp2/kernel/processmgr.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/psp2/kernel/threadmgr.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/psp2/message_dialog.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/psp2/common_dialog.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/psp2/system_param.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/psp2/gxm.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/psp2/defs.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/psp2/ime_dialog.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/psp2/display.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/psp2/apputil.h \
+ /usr/local/vitasdk/arm-vita-eabi/include/psp2/kernel/sysmem.h
