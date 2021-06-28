@@ -20,7 +20,7 @@
 #define toInt(a) (int)strtol(a, (char **)NULL, 10)
 
 //Upload Params
-#define UploadLink "https://vita-a73b4-default-rtdb.firebaseio.com/"
+#define UploadLink "YourFireBaseURL"
 #define baseData "{\"name\":\"%s\", \"score\":%d}"
 
 PsvDebugScreenFont defaultFont;
